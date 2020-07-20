@@ -8,4 +8,4 @@ site: site.hs
 	ghc site.hs
 
 clean: 
-	${RM} -r site site.o _cache site.hi
+	${RM} -r _site site site.o _cache site.hi
