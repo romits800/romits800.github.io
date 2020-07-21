@@ -1,10 +1,11 @@
 all: index.html
 
 
-index.html: site
+index.html: _site
 	./site build
+	cp -r _site/* _site2/
 
-site: site.hs
+_site: site.hs
 	ghc site.hs
 
 clean: 
