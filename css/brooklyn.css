@@ -18,6 +18,7 @@ body {
     width: 600px;
 }
 
+
 div#header {
     background: url(../images/haskell-logo.png) no-repeat;
     background-size: 73px;
@@ -107,3 +108,9 @@ p {
     line-height: 20px;
     margin-bottom:20px;
 }
+
+
+strong {
+    font-weight: 600;
+}
+
