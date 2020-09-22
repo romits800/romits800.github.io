@@ -7,6 +7,7 @@ title: Publications
 * [Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks](publications/cp_paper.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, and Benoit Baudry,
 _Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, CP '20_, **Best Paper Award (Applications Track)**.
+\[[Video](https://www.youtube.com/watch?v=qnkFGKo1I6c)\]
 
 ## Short Papers
 * [TarMiner: automatic extraction of miRNA targets from literature](publications/tarminer.pdf)<br>
