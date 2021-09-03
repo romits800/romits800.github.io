@@ -4,6 +4,11 @@ title: Publications
 
 # Conference Papers
 ## Long Papers
+
+* [Vivienne: Relational Verification of Cryptographic Implementations in WebAssembly](publications/secdev21.pdf)<br> 
+**Rodothea Myrsini Tsoupidi**, Musard Balliu, and Benoit Baudry,
+_2021 IEEE Cybersecurity Development (SecDev), SecDev '21_.
+
 * [Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks](publications/cp_paper.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, and Benoit Baudry,
 _Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, CP '20_, **Best Paper Award (Applications Track)**.
