@@ -3,7 +3,6 @@ title: Publications
 ---
 
 # Conference Papers
-## Long Papers
 
 * [Vivienne: Relational Verification of Cryptographic Implementations in WebAssembly](publications/secdev21.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Musard Balliu, and Benoit Baudry,
@@ -14,7 +13,6 @@ _2021 IEEE Cybersecurity Development (SecDev), SecDev '21_.
 _Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, CP '20_, **Best Paper Award (Applications Track)**.
 \[[Video](https://www.youtube.com/watch?v=qnkFGKo1I6c)\]
 
-## Short Papers
 * [TarMiner: automatic extraction of miRNA targets from literature](publications/tarminer.pdf)<br>
 **Rodothea-Myrsini Tsoupidi**, Ilias Kanellos, Thanasis Vergoulis, Ioannis S. Vlachos, Artemis G. Hatzigeorgiou, and Theodore Dalamagas,
 _Twenty-Seventh International Conference on Scientific and Statistical Database Management, SSDBM '15_

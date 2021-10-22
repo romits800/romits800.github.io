@@ -1,7 +1,7 @@
-all: index.html
+all: site2
 
 
-index.html: site
+site2: site index.html publications.markdown  
 	./site build
 	cp -r _site/* _site2/
 
