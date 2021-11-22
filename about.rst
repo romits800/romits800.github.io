@@ -1,7 +1,0 @@
----
-title: About
----
-I am a PhD student at the School of Electrical Engineering and Computer Science (EECS), Royal Institute of Technology (KTH), 
-under the supervision of Benoit Baudry and Musard Balliu. 
-My main research interests are in the area of software-based security, 
-software diversification, constraint programming and SMT solving.

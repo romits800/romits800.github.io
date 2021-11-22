@@ -1,7 +1,7 @@
 all: site2
 
 
-site2: site index.html teaching.markdown   publications.markdown contact.markdown about.rst
+site2: site index.html teaching.markdown   publications.markdown contact.markdown about.markdown
 	./site build
 	cp -r _site/* _site2/
 

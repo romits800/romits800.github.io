@@ -18,6 +18,22 @@ body {
     width: 700px;
 }
 
+div.image-wrap {
+        margin: 18px;
+        text-align: center;
+    }
+
+@media all and (min-width: 822px) {
+        div.image-wrap {
+            margin: 6px 18px 6px 0px;
+            float: left;
+        }
+
+        div.image-wrap img {
+            max-width: 128px;
+            margin: 0px;
+        }
+    }
 
 div#header {
     background: url(../images/haskell-logo.png) no-repeat;
