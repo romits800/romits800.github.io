@@ -6,7 +6,7 @@ title: Publications
 
 * [Constraint-based Diversification of JOP Gadgets](https://arxiv.org/abs/2111.09934)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, and Benoit Baudry,
-*To appear in* _Journal of Artificial Intelligence Research 72 (2021)_.
+_Journal of Artificial Intelligence Research 72 (2021)_.
 
 
 # Conference Papers
