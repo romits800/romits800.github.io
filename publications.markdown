@@ -10,6 +10,10 @@ _Journal of Artificial Intelligence Research 72 (2021)_.
 
 
 # Conference Papers
+* [Securing Optimized Code Against Power Side Channels](publications/secconcg.pdf)<br> 
+**Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, Elena Troubitsyna, and Panagiotis Papadimitratos,
+_**to appear** in 2023 IEEE Computer Security Foundations Symposium, CSF '23_.
+\[[Code](https://github.com/romits800/seccon_experiments)\]
 
 * [Vivienne: Relational Verification of Cryptographic Implementations in WebAssembly](publications/secdev21.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Musard Balliu, and Benoit Baudry,

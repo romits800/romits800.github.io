@@ -8,5 +8,7 @@ title: Teaching
 
 * 2020-2021: [Constraint Programming (ID2204)](https://www.kth.se/student/kurser/kurs/ID2204?l=en), KTH, exam design
 
-* 2020-2021: [Programming I (ID1018)](https://www.kth.se/student/kurser/kurs/ID1018?l=en), KTH, lab assistant
+* 2020-2022: [Programming I (ID1018)](https://www.kth.se/student/kurser/kurs/ID1018?l=en), KTH, lab assistant
+
+* 2023: Bsc Thesis Supervision
 
