@@ -10,5 +10,5 @@ title: Teaching
 
 * 2020-2022: [Programming I (ID1018)](https://www.kth.se/student/kurser/kurs/ID1018?l=en), KTH, lab assistant
 
-* 2023: Bsc Thesis Supervision
+* 2023: Bachelor Thesis Supervision
 
