@@ -9,7 +9,7 @@ title: Publications
 _Journal of Artificial Intelligence Research 72 (2021)_.
 
 
-# Conference Papers
+# Conference Papers Test
 * [Securing Optimized Code Against Power Side Channels](publications/secconcg.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, Elena Troubitsyna, and Panagiotis Papadimitratos,
 _**to appear** in 2023 IEEE Computer Security Foundations Symposium, CSF '23_.
