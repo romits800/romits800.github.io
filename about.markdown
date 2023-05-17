@@ -9,6 +9,3 @@ My main research interests are in the area of software-based security,
 side-channel attack mitigations, software diversification, constraint programming and SMT solving.
 
 ---
-
-Served as external reviewer for CP'2020 and EuroS&P'22 and was member in the 
-artifact evaluation (AE) program commitee for Usenix'23.
