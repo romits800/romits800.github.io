@@ -4,10 +4,15 @@ title: Publications
 
 ## Journal Papers
 
+* [Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems](publications/cose23.pdf)<br>
+**Rodothea-Myrsini Tsoupidi**, Elena Tsoubitsyna, and Panagiotis Papadimitratos.
+_to appear in: Computers & Security (2021)_.
+\[[Code](https://github.com/romits800/secdivcon_experiments), [arXiv](https://arxiv.org/abs/2304.13458)\]
+
 * [Constraint-based Diversification of JOP Gadgets](publications/jair21.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, and Benoit Baudry,
 _Journal of Artificial Intelligence Research 72 (2021)_.
-\[[Code](https://github.com/romits800/divCon), [Arxiv](https://arxiv.org/abs/2111.09934)\]
+\[[Code](https://github.com/romits800/divCon), [arXiv](https://arxiv.org/abs/2111.09934)\]
 
 
 ## Conference Papers
@@ -29,12 +34,6 @@ _Twenty-Sixth International Conference on Principles and Practice of Constraint 
 * [TarMiner: automatic extraction of miRNA targets from literature](publications/tarminer.pdf)<br>
 **Rodothea-Myrsini Tsoupidi**, Ilias Kanellos, Thanasis Vergoulis, Ioannis S. Vlachos, Artemis G. Hatzigeorgiou, and Theodore Dalamagas,
 _Twenty-Seventh International Conference on Scientific and Statistical Database Management, SSDBM '15_
-
-
-## arXiv
-* [Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems](publications/cose23.pdf)<br>
-**Rodothea-Myrsini Tsoupidi**, Elena Tsoubitsyna, and Panagiotis Papadimitratos.
-\[[Code](https://github.com/romits800/secdivcon_experiments), [Arxiv](https://arxiv.org/abs/2304.13458)\]
 
 
 
