@@ -6,7 +6,7 @@ title: Publications
 
 * [Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems](publications/cose23.pdf)<br>
 **Rodothea-Myrsini Tsoupidi**, Elena Tsoubitsyna, and Panagiotis Papadimitratos.
-_to appear in: Computers & Security (2023)_.
+_**to appear in** Computers & Security (2023)_.
 \[[Code](https://github.com/romits800/secdivcon_experiments), [arXiv](https://arxiv.org/abs/2304.13458)\]
 
 * [Constraint-based Diversification of JOP Gadgets](publications/jair21.pdf)<br> 
@@ -18,7 +18,7 @@ _Journal of Artificial Intelligence Research 72 (2021)_.
 ## Conference Papers
 * [Securing Optimized Code Against Power Side Channels](publications/secconcg.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, Elena Troubitsyna, and Panagiotis Papadimitratos,
-_**to appear** in 2023 IEEE Computer Security Foundations Symposium, CSF '23_.
+_**to appear in** 2023 IEEE Computer Security Foundations Symposium, CSF '23_.
 \[[Code](https://github.com/romits800/seccon_experiments)\]
 
 * [Vivienne: Relational Verification of Cryptographic Implementations in WebAssembly](publications/secdev21.pdf)<br> 
