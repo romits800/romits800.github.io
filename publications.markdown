@@ -11,7 +11,7 @@ _to appear in: Computers & Security (2021)_.
 
 * [Constraint-based Diversification of JOP Gadgets](publications/jair21.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, and Benoit Baudry,
-_Journal of Artificial Intelligence Research 72 (2021)_.
+_Journal of Artificial Intelligence Research 72 (2023)_.
 \[[Code](https://github.com/romits800/divCon), [arXiv](https://arxiv.org/abs/2111.09934)\]
 
 
