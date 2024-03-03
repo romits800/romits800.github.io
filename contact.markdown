@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-Email: tsoupidi@kth.se, romy.tsoupidi@proton.me
+Email: romy.tsoupidi@proton.me
 
 Twitter: [\@tsoupidi](https://twitter.com/tsoupidi)
 
