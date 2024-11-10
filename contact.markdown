@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-Email: romy.tsoupidi@proton.me
+Email: romy.tsoupidi@proton.me, rtsoupidi@acm.org
 
 Twitter: [\@tsoupidi](https://twitter.com/tsoupidi)
 
