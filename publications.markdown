@@ -36,6 +36,12 @@ _Twenty-Sixth International Conference on Principles and Practice of Constraint 
 _Twenty-Seventh International Conference on Scientific and Statistical Database Management, SSDBM '15_
 
 
+## Magazine Articles
+* [Protecting Cryptographic Libraries against Side-Channel and Code-Reuse Attacks](publications/spmag24.pdf)<br>
+**Rodothea-Myrsini Tsoupidi**, Elena Tsoubitsyna, and Panagiotis Papadimitratos,
+_IEEE Security & Privacy 2024_.
+\[[IEEE Explorer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10790874)\]
+
 
 ## Theses
 * [Generating Optimized and Secure Binary Code](publications/kappa.pdf)<br>
