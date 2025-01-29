@@ -8,8 +8,8 @@ Reviewing
 
 -   **External Reviewer** for *CP'2020* and *EuroS&P'22*
 -   Member of the **Artifact Evaluation Program Committee** for *Usenix'23*
--   **Volunteer Reviewer** for *ITiCSE'2024*
--   **Reviewer** for [*Computers & Security*](https://www.sciencedirect.com/journal/computers-and-security) in 2024
+-   **Reviewer** for *ITiCSE'2024* and *ITiCSE'2025*
+-   **Reviewer** for [*Computers & Security*](https://www.sciencedirect.com/journal/computers-and-security) in 2024 and 2025
 
 Participation
 =============
