@@ -16,9 +16,14 @@ _Journal of Artificial Intelligence Research 72 (2021)_.
 
 
 ## Conference Papers
+* [Evaluating Code Generation of LLMs in Advanced Computer Science Problems](publications/aied2025.pdf)<br> 
+Emir Catir, Robin Claesson, **Rodothea Myrsini Tsoupidi**,
+_To be submitted_.
+\[[arXiv](https://arxiv.org/abs/2504.14964)\]
+
 * [Securing Optimized Code Against Power Side Channels](publications/secconcg.pdf)<br> 
 **Rodothea Myrsini Tsoupidi**, Roberto Castañeda Lozano, Elena Troubitsyna, and Panagiotis Papadimitratos,
-2023 IEEE Computer Security Foundations Symposium, CSF '23.
+_2023 IEEE Computer Security Foundations Symposium, CSF '23_.
 \[[Code](https://github.com/romits800/seccon_experiments)\]
 
 * [Vivienne: Relational Verification of Cryptographic Implementations in WebAssembly](publications/secdev21.pdf)<br> 
