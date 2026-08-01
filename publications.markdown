@@ -16,9 +16,11 @@ _Journal of Artificial Intelligence Research 72 (2021)_.
 
 
 ## Conference Papers
-* Dataflow Is All You Need<br> 
-Darshan Gandhi, Pushkar Nandkar, David Koeplinger, Nasim Farahini, **Romy Tsoupidi**, Samuel Rydh, Matheen Musaddiq, Tuowen Zhao, Reid Goodbar, Nathan Sheeley, Leon Zhang, Matthew Shaffer, John Long, Han Wang, Angela Wang, Arjun Sabnis, Joshua Brot, Yun Du, Håkan Zeffer, Mingran Wang, Raghu Prabhakar 
+* 
+**Dataflow Is All You Need**<br> 
+Darshan Gandhi, Pushkar Nandkar, David Koeplinger, Nasim Farahini, **Romy Tsoupidi**, Samuel Rydh, Matheen Musaddiq, Tuowen Zhao, Reid Goodbar, Nathan Sheeley, Leon Zhang, Matthew Shaffer, John Long, Han Wang, Angela Wang, Arjun Sabnis, Joshua Brot, Yun Du, Håkan Zeffer, Mingran Wang, Raghu Prabhakar,
 _Proceedings of Machine Learning and Systems (2026)_.
+\[[OperReview](https://openreview.net/forum?id=7wOOhxkuN8)\]
 
 * [Evaluating Code Generation of LLMs in Advanced Computer Science Problems](publications/aied2025.pdf)<br> 
 Emir Catir, Robin Claesson, **Rodothea Myrsini Tsoupidi**,
@@ -46,10 +48,12 @@ _Twenty-Seventh International Conference on Scientific and Statistical Database 
 
 
 ## Magazine Articles
+
 * [Protecting Cryptographic Libraries against Side-Channel and Code-Reuse Attacks](publications/spmag24.pdf)<br>
 **Rodothea-Myrsini Tsoupidi**, Elena Tsoubitsyna, and Panagiotis Papadimitratos,
 _IEEE Security & Privacy 2024_.
-\[[IEEE Explorer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10790874)\]
+\[[IEEE Explorer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10790874), [arXiv](https://arxiv.org/pdf/2412.19310)\]
+
 
 
 ## Theses

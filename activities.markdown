@@ -10,8 +10,7 @@ Reviewing
 -   **Reviewer** for [*Automated Software Engineering*](https://link.springer.com/journal/10515) in 2025 and 2026
 -   **Reviewer** for [*Journal of Cryptographic Engineering*](https://link.springer.com/journal/13389) in 2025
 -   **Reviewer** for [*Transactions on Embedded Computing Systems*](https://dl.acm.org/journal/tecs) in 2025
--   **Reviewer** for [*ITiCSE'2024*](https://iticse.acm.org/2024/), [*ITiCSE'2025*](https://iticse.acm.org/2025), [*ITiCSE'2026*](https://iticse.acm.org/2026), 
-and [*AIED'2025*](https://iaied.org/conferences)
+-   **Reviewer** for [*ITiCSE'2024*](https://iticse.acm.org/2024/), [*ITiCSE'2025*](https://iticse.acm.org/2025), [*ITiCSE'2026*](https://iticse.acm.org/2026), [*AIED'2025*](https://iaied.org/conferences), and [SIGCSE Virtual](https://sigcsevirtual2026.acm.org/)
 -   Member of the **Artifact Evaluation Program Committee** for *Usenix Security'23*
 -   **External Reviewer** for *CP'2020* and *EuroS&P'22*
 
