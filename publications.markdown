@@ -20,7 +20,7 @@ _Journal of Artificial Intelligence Research 72 (2021)_.
 **Dataflow Is All You Need**<br> 
 Darshan Gandhi, Pushkar Nandkar, David Koeplinger, Nasim Farahini, **Romy Tsoupidi**, Samuel Rydh, Matheen Musaddiq, Tuowen Zhao, Reid Goodbar, Nathan Sheeley, Leon Zhang, Matthew Shaffer, John Long, Han Wang, Angela Wang, Arjun Sabnis, Joshua Brot, Yun Du, Håkan Zeffer, Mingran Wang, Raghu Prabhakar,
 _Proceedings of Machine Learning and Systems (2026)_.
-\[[OperReview](https://openreview.net/forum?id=7wOOhxkuN8)\]
+\[[OpenReview](https://openreview.net/forum?id=7wOOhxkuN8)\]
 
 * [Evaluating Code Generation of LLMs in Advanced Computer Science Problems](publications/aied2025.pdf)<br> 
 Emir Catir, Robin Claesson, **Rodothea Myrsini Tsoupidi**,
