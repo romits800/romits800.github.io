@@ -7,6 +7,7 @@ Reviewing
 =========
 
 -   **Reviewer** for [*Computers & Security*](https://www.sciencedirect.com/journal/computers-and-security) in 2024, 2025, and 2026
+-   **Reviewer** for [*International Journal of Information Security*](https://link.springer.com/journal/10207) in 2026
 -   **Reviewer** for [*Automated Software Engineering*](https://link.springer.com/journal/10515) in 2025 and 2026
 -   **Reviewer** for [*Journal of Cryptographic Engineering*](https://link.springer.com/journal/13389) in 2025
 -   **Reviewer** for [*Transactions on Embedded Computing Systems*](https://dl.acm.org/journal/tecs) in 2025
